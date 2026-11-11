@@ -84,7 +84,7 @@ try {
         "| [$($_.Name)](https://github.com/markwragg/$($_.Repo)) | $($_.Description) | $VersionBadge | $DownloadsBadge |"
     }
 
-    $Table = @('| Module | What it does | Version | Downloads |', '| --- | --- | --- | --- |') + $Rows
+    $Table = @('| Module | What it does | Latest Version | Downloads |', '| --- | --- | --- | --- |') + $Rows
     $Readme = Set-ReadmeSection -Content $Readme -Name 'MODULES' -Value ("`n" + ($Table -join "`n") + "`n")
 
     Write-Host "Gallery: $Total total downloads across $($Downloads.Count) modules."
