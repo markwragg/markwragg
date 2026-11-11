@@ -79,8 +79,9 @@ try {
     $Readme = Set-ReadmeSection -Content $Readme -Name 'DOWNLOADS' -Value ('{0:0.#} million' -f $Millions)
 
     $Rows = $Featured | Sort-Object { $Downloads[$_.Name] } -Descending | ForEach-Object {
-        $Badge = "[![Downloads](https://img.shields.io/powershellgallery/dt/$($_.Name)?label=downloads)](https://www.powershellgallery.com/packages/$($_.Name))"
-        "| [$($_.Name)](https://github.com/markwragg/$($_.Repo)) | $($_.Description) | $Badge |"
+        $VersionBadge = "[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/$($_.Name)?label=PS%20Gallery)](https://www.powershellgallery.com/packages/$($_.Name))"
+        $DownloadsBadge = "[![Downloads](https://img.shields.io/powershellgallery/dt/$($_.Name)?color=D3D3D3)](https://www.powershellgallery.com/packages/$($_.Name))"
+        "| [$($_.Name)](https://github.com/markwragg/$($_.Repo)) | $($_.Description) | $VersionBadge&nbsp;$DownloadsBadge |"
     }
 
     $Table = @('| Module | What it does | |', '| --- | --- | --- |') + $Rows
