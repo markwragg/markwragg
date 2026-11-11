@@ -23,14 +23,14 @@ Most of what's here started as a script to scratch my own itch that grew into so
 I maintain 18 modules on the [PowerShell Gallery](https://www.powershellgallery.com/profiles/markwragg), which have been downloaded over <!--DOWNLOADS-->2.1 million<!--/DOWNLOADS--> times between them. A few favourites:
 
 <!--MODULES-->
-| Module | What it does | |
+| Module | What it does | Downloads |
 | --- | --- | --- |
-| [Subnet](https://github.com/markwragg/PowerShell-Subnet) | Network subnet calculations | [![Downloads](https://img.shields.io/powershellgallery/dt/Subnet?label=downloads)](https://www.powershellgallery.com/packages/Subnet) |
-| [Influx](https://github.com/markwragg/PowerShell-Influx) | Send metrics to InfluxDB | [![Downloads](https://img.shields.io/powershellgallery/dt/Influx?label=downloads)](https://www.powershellgallery.com/packages/Influx) |
-| [Watch](https://github.com/markwragg/PowerShell-Watch) | Re-run a scriptblock until its output changes | [![Downloads](https://img.shields.io/powershellgallery/dt/Watch?label=downloads)](https://www.powershellgallery.com/packages/Watch) |
-| [HashCopy](https://github.com/markwragg/PowerShell-HashCopy) | Copy only the files that have actually changed | [![Downloads](https://img.shields.io/powershellgallery/dt/HashCopy?label=downloads)](https://www.powershellgallery.com/packages/HashCopy) |
-| [Lumos](https://github.com/markwragg/PowerShell-Lumos) | Switch your OS between light and dark themes at sunrise and sunset | [![Downloads](https://img.shields.io/powershellgallery/dt/Lumos?label=downloads)](https://www.powershellgallery.com/packages/Lumos) |
-| [AzCostTools](https://github.com/markwragg/PowerShell-AzCostTools) | See where your Azure money is going | [![Downloads](https://img.shields.io/powershellgallery/dt/AzCostTools?label=downloads)](https://www.powershellgallery.com/packages/AzCostTools) |
+| [Subnet](https://github.com/markwragg/PowerShell-Subnet) | Network subnet calculations | [![Downloads](https://img.shields.io/powershellgallery/dt/Subnet?color=D3D3D3)](https://www.powershellgallery.com/packages/Subnet) |
+| [Influx](https://github.com/markwragg/PowerShell-Influx) | Send metrics to InfluxDB | [![Downloads](https://img.shields.io/powershellgallery/dt/Influx?color=D3D3D3)](https://www.powershellgallery.com/packages/Influx) |
+| [Watch](https://github.com/markwragg/PowerShell-Watch) | Re-run a scriptblock until its output changes | [![Downloads](https://img.shields.io/powershellgallery/dt/Watch?color=D3D3D3)](https://www.powershellgallery.com/packages/Watch) |
+| [HashCopy](https://github.com/markwragg/PowerShell-HashCopy) | Copy only the files that have actually changed | [![Downloads](https://img.shields.io/powershellgallery/dt/HashCopy?color=D3D3D3)](https://www.powershellgallery.com/packages/HashCopy) |
+| [Lumos](https://github.com/markwragg/PowerShell-Lumos) | Switch your OS between light and dark themes at sunrise and sunset | [![Downloads](https://img.shields.io/powershellgallery/dt/Lumos?color=D3D3D3)](https://www.powershellgallery.com/packages/Lumos) |
+| [AzCostTools](https://github.com/markwragg/PowerShell-AzCostTools) | See where your Azure money is going | [![Downloads](https://img.shields.io/powershellgallery/dt/AzCostTools?color=D3D3D3)](https://www.powershellgallery.com/packages/AzCostTools) |
 <!--/MODULES-->
 
 ## ✍️ Latest from the blog
