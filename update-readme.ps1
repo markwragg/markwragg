@@ -81,10 +81,10 @@ try {
     $Rows = $Featured | Sort-Object { $Downloads[$_.Name] } -Descending | ForEach-Object {
         $VersionBadge = "[![PowerShell Gallery Version](https://img.shields.io/powershellgallery/v/$($_.Name)?label=PS%20Gallery)](https://www.powershellgallery.com/packages/$($_.Name))"
         $DownloadsBadge = "[![Downloads](https://img.shields.io/powershellgallery/dt/$($_.Name)?color=D3D3D3)](https://www.powershellgallery.com/packages/$($_.Name))"
-        "| [$($_.Name)](https://github.com/markwragg/$($_.Repo)) | $($_.Description) | $VersionBadge&nbsp;$DownloadsBadge |"
+        "| [$($_.Name)](https://github.com/markwragg/$($_.Repo)) | $($_.Description) | $VersionBadge | $DownloadsBadge |"
     }
 
-    $Table = @('| Module | What it does | |', '| --- | --- | --- |') + $Rows
+    $Table = @('| Module | What it does | Version | Downloads |', '| --- | --- | --- | --- |') + $Rows
     $Readme = Set-ReadmeSection -Content $Readme -Name 'MODULES' -Value ("`n" + ($Table -join "`n") + "`n")
 
     Write-Host "Gallery: $Total total downloads across $($Downloads.Count) modules."
