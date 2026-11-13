@@ -15,7 +15,7 @@
 #>
 [CmdletBinding()]
 param(
-    [string]$Path = (Join-Path $PSScriptRoot 'README.md'),
+    [string]$Path = (Join-Path $PSScriptRoot '..' '..' 'README.md'),
 
     [string]$FeedUrl = 'https://wragg.io/feed.xml',
 
