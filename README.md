@@ -4,14 +4,14 @@
 PS> Get-Engineer -Name 'Mark Wragg' | Format-List
 
 Location : Hampshire, UK
-Likes    : PowerShell, Pester, automating the boring bits
+Likes    : PowerShell, Pester, Automation
 Building : awesome-powershell-modules, AzureCAF
 Writing  : https://wragg.io
 ```
 
-I'm a cloud and automation engineer. I like making repetitive things disappear, and PowerShell is usually how I do it.
+I'm a cloud and automation engineer. I like making repetitive tasks automatic, and PowerShell is usually how I do it.
 
-Most of what's here started as a script to scratch my own itch that grew into something other people found useful too. Some of it is practical, some of it exists purely because it was fun to build (yes, there's an [XKCD module](https://github.com/markwragg/PowerShell-XKCD)).
+Most of of what's here started out as a personal or professional problem I needed to solve, that I thought other people might find useful too. Some of it is practical, some of it exists purely because it was fun to build (such as my [XKCD module](https://github.com/markwragg/PowerShell-XKCD)).
 
 ## 🔨 What I'm working on
 
@@ -20,7 +20,7 @@ Most of what's here started as a script to scratch my own itch that grew into so
 
 ## 📦 Things I've built
 
-I maintain 18 modules on the [PowerShell Gallery](https://www.powershellgallery.com/profiles/markwragg), which have been downloaded over <!--DOWNLOADS-->2.1 million<!--/DOWNLOADS--> times between them. A few favourites:
+I currently maintain 18 modules on the [PowerShell Gallery](https://www.powershellgallery.com/profiles/markwragg), which have been downloaded over <!--DOWNLOADS-->2.1 million<!--/DOWNLOADS--> times between them. A few favourites:
 
 <!--MODULES-->
 | Module | What it does | Latest Version | Downloads |
@@ -55,8 +55,8 @@ More at [wragg.io](https://wragg.io).
 
 ## 💬 Say hello
 
-Found a bug, got an idea, or just want to chat about automation? Open an issue on the relevant repo, or find me on [LinkedIn](https://www.linkedin.com/in/mwragg).
+Found a bug, got an idea, or just want to talk? Open an issue on the relevant repo, or find me on [LinkedIn](https://www.linkedin.com/in/mwragg).
 
 ---
 
-<sub>🤖 This README updates itself every day using [PowerShell](Update-Readme.ps1) and [GitHub Actions](.github/workflows/update-readme.yml).</sub>
+<sub>🤖 This README updates itself every day using [PowerShell](.github/workflows/Update-Readme.ps1) and [GitHub Actions](.github/workflows/update-readme.yml).</sub>
