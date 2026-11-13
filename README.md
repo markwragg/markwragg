@@ -45,12 +45,33 @@ More at [wragg.io](https://wragg.io).
 
 ## 🎤 Talks and other bits
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 [![Automate build/testing/deploy of PowerShell with Azure DevOps](https://img.youtube.com/vi/x5LXjIPEflU/hqdefault.jpg)](https://www.youtube.com/watch?v=x5LXjIPEflU)
 
-*My PSConf.eu MiniCon 2026 talk: Automate build/testing/deploy of PowerShell with Azure DevOps*
+*PSConf.eu MiniCon 2026: Automate build/testing/deploy of PowerShell with Azure DevOps*
+
+</td>
+<td width="33%" valign="top">
+
+[![Monitoring with InfluxDB and Grafana](https://img.youtube.com/vi/V7PYt9tWFw8/hqdefault.jpg)](https://www.youtube.com/watch?v=V7PYt9tWFw8&list=PLgo0gr9mVOSkod-MZ1XLBzuuytdq7XY3P&index=3)
+
+*PSDay.UK: Monitoring with InfluxDB and Grafana*
+
+</td>
+<td width="33%" valign="top">
+
+[![Pester testing](https://img.youtube.com/vi/BbOiQCgDDR8/hqdefault.jpg)](https://www.youtube.com/watch?v=BbOiQCgDDR8&list=PLgo0gr9mVOSkod-MZ1XLBzuuytdq7XY3P&index=2)
+
+*PSDay.UK: Pester testing*
+
+</td>
+</tr>
+</table>
 
 - 🎙️ I was a guest on [The PowerShell Podcast](https://powershellpodcast.podbean.com/e/cloud-chronicles-mark-wraggs-journey-in-devops/)
-- 📺 I've spoken at PSDay.UK on [Pester testing](https://youtu.be/BbOiQCgDDR8) and [monitoring with InfluxDB and Grafana](https://www.youtube.com/watch?v=V7PYt9tWFw8)
 - 📖 I wrote chapters for The PowerShell Conference Book, [volume 1](https://leanpub.com/powershell-conference-book) and [volume 2](https://leanpub.com/psconfbook2)
 
 ## 💬 Say hello
