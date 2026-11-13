@@ -45,7 +45,7 @@ More at [wragg.io](https://wragg.io).
 
 ## 🎤 Talks and other bits
 
-<table>
+<table border="0">
 <tr>
 <td width="33%" valign="top">
 
