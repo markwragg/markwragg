@@ -45,27 +45,27 @@ More at [wragg.io](https://wragg.io).
 
 ## 🎤 Talks and other bits
 
-<table border="0">
+<table>
 <tr>
 <td width="33%" valign="top">
 
 [![Automate build/testing/deploy of PowerShell with Azure DevOps](https://img.youtube.com/vi/x5LXjIPEflU/hqdefault.jpg)](https://www.youtube.com/watch?v=x5LXjIPEflU)
 
-*PSConf.eu MiniCon 2026: Automate build/testing/deploy of PowerShell with Azure DevOps*
+*PSConf.eu MiniCon: Automate build / testing / deploy of PowerShell with Azure DevOps*
 
 </td>
 <td width="33%" valign="top">
 
 [![Monitoring with InfluxDB and Grafana](https://img.youtube.com/vi/V7PYt9tWFw8/hqdefault.jpg)](https://www.youtube.com/watch?v=V7PYt9tWFw8&list=PLgo0gr9mVOSkod-MZ1XLBzuuytdq7XY3P&index=3)
 
-*PSDay.UK: Monitoring with InfluxDB and Grafana*
+*PSDay.UK: Measure all the things with Influx, Grafana and PowerShell*
 
 </td>
 <td width="33%" valign="top">
 
 [![Pester testing](https://img.youtube.com/vi/BbOiQCgDDR8/hqdefault.jpg)](https://www.youtube.com/watch?v=BbOiQCgDDR8&list=PLgo0gr9mVOSkod-MZ1XLBzuuytdq7XY3P&index=2)
 
-*PSDay.UK: Pester testing*
+*PSDay.UK: Mastering PowerShell Testing with Pester*
 
 </td>
 </tr>
