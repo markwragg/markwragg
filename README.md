@@ -11,7 +11,7 @@ Writing  : https://wragg.io
 
 I'm a cloud and automation engineer. I like making repetitive tasks automatic, and PowerShell is usually how I do it.
 
-Most of what's here started out as a personal or professional problem I needed to solve, that I thought other people might find useful too. Some of it is practical, some of it exists purely because it was fun to build (such as my [XKCD module](https://github.com/markwragg/PowerShell-XKCD)).
+Most of what's here started out as a personal or professional problem I needed to solve, and I thought the solution might be useful to other people too. Some of it is practical, some of it exists purely because it was fun to build (such as my [XKCD module](https://github.com/markwragg/PowerShell-XKCD)).
 
 ## 🔨 What I'm working on
 
