@@ -4,12 +4,12 @@
 PS> Get-Engineer -Name 'Mark Wragg' | Format-List
 
 Location : Hampshire, UK
-Likes    : PowerShell, Pester, Automation
+Likes    : PowerShell, Pester, Automation, Security
 Building : awesome-powershell-modules, AzureCAF
 Writing  : https://wragg.io
 ```
 
-I'm a cloud and automation engineer. I like making repetitive tasks automatic, and PowerShell is usually how I do it.
+I'm a cloud, automation and security engineer. I like making repetitive tasks automatic, and PowerShell is usually how I do it.
 
 Most of what's here started out as a personal or professional problem I needed to solve, and I thought the solution might be useful to other people too. Some of it is practical, some of it exists purely because it was fun to build (such as my [XKCD module](https://github.com/markwragg/PowerShell-XKCD)).
 
