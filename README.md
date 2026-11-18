@@ -5,7 +5,7 @@ PS> Get-Engineer -Name 'Mark Wragg' | Format-List
 
 Location : Hampshire, UK
 Likes    : PowerShell, Pester, Automation, Security
-Building : awesome-powershell-modules, AzureCAF
+Building : awesome-powershell-modules, AzureCAF, ModuleManager
 Writing  : https://wragg.io
 ```
 
@@ -17,6 +17,7 @@ Most of what's here started out as a personal or professional problem I needed t
 
 - [awesome-powershell-modules](https://github.com/markwragg/awesome-powershell-modules): a curated list of PowerShell modules worth knowing about
 - [AzureCAF](https://github.com/markwragg/PowerShell-AzureCAF): a module that generates Azure resource names following the Cloud Adoption Framework naming recommendations
+- [ModuleManager](https://github.com/markwragg/PowerShell-ModuleManager): a module for seeing, updating and cleaning up your installed PowerShell modules, with an interactive terminal UI
 
 ## 📦 Things I've built
 
