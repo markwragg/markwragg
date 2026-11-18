@@ -36,9 +36,9 @@ I currently maintain 18 modules on the [PowerShell Gallery](https://www.powershe
 ## ✍️ Latest from the blog
 
 <!--POSTS-->
+- [Celebrating 20 Years of PowerShell](https://wragg.io/20-years-of-powershell/)
 - [Building a self-maintaining Awesome List with GitHub Actions and Claude](https://wragg.io/awesome-powershell-modules/)
 - [Speed up Azure DevOps pipelines with the Cache task](https://wragg.io/speed-up-azure-devops-pipelines-with-cache-task/)
-- [Automating SSL/TLS certificate renewal in Azure](https://wragg.io/automating-ssl-certificate-renewal-in-azure/)
 <!--/POSTS-->
 
 More at [wragg.io](https://wragg.io).
