@@ -21,7 +21,7 @@ Most of what's here started out as a personal or professional problem I needed t
 
 ## 📦 Things I've built
 
-I currently maintain 18 modules on the [PowerShell Gallery](https://www.powershellgallery.com/profiles/markwragg), which have been downloaded over <!--DOWNLOADS-->2.1 million<!--/DOWNLOADS--> times between them. A few favourites:
+I currently maintain 19 modules on the [PowerShell Gallery](https://www.powershellgallery.com/profiles/markwragg), which have been downloaded over <!--DOWNLOADS-->2.1 million<!--/DOWNLOADS--> times between them. A few favourites:
 
 <!--MODULES-->
 | Module | What it does | Latest Version | Downloads |
